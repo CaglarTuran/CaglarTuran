@@ -9,8 +9,9 @@ My name is Caglar, and I'm a passionate software developer specializing in .NET 
 <ul>
   <li><b>Programming Languages:</b> C#, JavaScript, TypeScript</li>
   <li><b>Front-End Development:</b> HTML, CSS, Bootstrap, Jquery</li>
-  <li><b>Back-End Development:</b> .NET Framework, .NET Core, ASP.NET MVC, Web API</li>
-  <li><b>Database:</b> SQL Server, MySQL</li>
+  <li><b>Back-End Development:</b> .NET Core, Web API</li>
+  <li><b>ORM:</b> EF Core</li>
+  <li><b>Database:</b> SQL Server,Redis,PostgreSQL</li>
   <li><b>Version Control:</b> Git, GitHub,Tfs</li>
   <li><b>Deployment:</b> IIS,Docker</li>
 </ul>
