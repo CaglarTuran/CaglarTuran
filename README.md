@@ -2,16 +2,8 @@
 
 #### Welcome to my GitHub repository! Here you'll find a collection of my projects showcasing my skills and experience as a Full Stack .NET Developer.
 
-
-
 #### About Me
 My name is Caglar, and I'm a passionate software developer specializing in .NET technologies. With several years of experience in the industry, I have a strong background in developing scalable and robust web applications. I'm constantly exploring new technologies and staying up-to-date with the latest trends in software development.
-
-#### Contact Me
-I'm always interested in collaborating on new projects and opportunities. If you have any questions or would like to discuss potential collaborations, feel free to reach out to me:
-
-**Email:** caglarturan86@gmail.com <br>
-**LinkedIn:** <a href="https://linkedin.com/in/caglarturan" target="blank">linkedin.com/in/caglarturan</a>  <br>
 
 #### Skills
 <ul>
